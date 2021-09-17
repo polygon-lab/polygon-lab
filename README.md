@@ -16,8 +16,8 @@
   <a href="https://codeforces.com/profile/polygonx"> <img height="26px" src="cp/cp-codeforces.svg"> </a>
   <a href="https://projecteuler.net/profile/polygonx.png"> <img height="26px" src="cp/cp-projecteuler.svg"> </a>
   <a href="https://www.topcoder.com/members/polygonx"> <img height="26px" src="cp/cp-topcoder.svg"> </a>
-  <a href="https://auth.geeksforgeeks.org/user/polygonx"> <img height="26px" src="cp/cp-geeksforgeeks.svg"> </a>
   <a href="https://open.kattis.com/users/polygonx"> <img height="26px" src="cp/cp-kattis.svg"> </a>
+  <a href="https://auth.geeksforgeeks.org/user/polygonx"> <img height="26px" src="cp/cp-geeksforgeeks.svg"> </a>
   <a href="https://www.codechef.com/users/polygonx"> <img height="26px" src="cp/cp-codechef.svg"> </a>
   <a href="https://binarysearch.com/@/polygonx"> <img height="26px" src="cp/cp-binarysearch.svg"> </a>
   <a href="https://www.spoj.com/users/polygonx"> <img height="26px" src="cp/cp-spoj.svg"> </a>
