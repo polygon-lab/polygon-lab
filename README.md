@@ -44,14 +44,16 @@
 </p>
 
 <p align="center">
-  <img height="26px" src="xtx.svg">
-  <img height="26px" src="warwick.svg">
-  <img height="26px" src="entain.svg">
-  <img height="26px" src="ecole.svg">
-  <img height="26px" src="huawei.svg">
-  <img height="26px" src="delft.svg">
+  <img height="30px" src="xtx.svg">
+  <img height="30px" src="warwick.svg">
+  <img height="30px" src="entain.svg">
+  <img height="30px" src="ecole.svg">
+  <img height="30px" src="huawei.svg">
+  <img height="30px" src="delft.svg">
 </p>
 
 <p align="center">
   <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 </p>
+
+@codeforces
