@@ -1,0 +1,43 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 135.46666 135.46667" version="1.1" id="svg2925" inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)" sodipodi:docname="warwick-university.svg">
+  <sodipodi:namedview id="namedview2927" pagecolor="#2d6cdf" bordercolor="#2d6cdf" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:document-units="mm" showgrid="false" units="px" width="512px" inkscape:zoom="0.71891835" inkscape:cx="397.12437" inkscape:cy="116.14671" inkscape:window-width="1848" inkscape:window-height="1016" inkscape:window-x="72" inkscape:window-y="27" inkscape:window-maximized="1" inkscape:current-layer="layer1" fill="#2d6cdf"/>
+  <defs id="defs2922" fill="#2d6cdf">
+    <clipPath id="clip1" fill="#2d6cdf">
+      <path d="M 4,23 H 458.87109 V 80 H 4 Z m 0,0" id="path823" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip2" fill="#2d6cdf">
+      <path d="m 4,84 h 311 v 18.23047 H 4 Z m 0,0" id="path826" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip1-6" fill="#2d6cdf">
+      <path d="m 29,36 h 6 v 8.28125 h -6 z m 0,0" id="path1487" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip2-0" fill="#2d6cdf">
+      <path d="m 36,36 h 6 v 8.28125 h -6 z m 0,0" id="path1490" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip3" fill="#2d6cdf">
+      <path d="m 44,36 h 7 v 8.28125 h -7 z m 0,0" id="path1493" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip4" fill="#2d6cdf">
+      <path d="m 51,35 h 8 v 9.28125 h -8 z m 0,0" id="path1496" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip5" fill="#2d6cdf">
+      <path d="m 61,36 h 8 v 8.28125 h -8 z m 0,0" id="path1499" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip6" fill="#2d6cdf">
+      <path d="m 81,36 h 6 v 8.28125 h -6 z m 0,0" id="path1502" fill="#2d6cdf"/>
+    </clipPath>
+    <clipPath id="clip7" fill="#2d6cdf">
+      <path d="m 95,36 h 6.32031 v 8 H 95 Z m 0,0" id="path1505" fill="#2d6cdf"/>
+    </clipPath>
+    <style id="style3500">.cls-1{fill:none;}.cls-2{fill:#2d6cdf;}</style>
+  </defs>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <g id="g3514" transform="matrix(0.89597305,0,0,0.89597305,0.53535664,0.53535664)">
+      <path class="cls-1" d="m 0,0.2 h 150 v 150 H 0 Z" transform="translate(0,-0.2)" id="path3504" fill="#2d6cdf"/>
+      <polygon class="cls-2" points="0.82,45.59 148.63,45.59 106.4,119.75 74.84,61.1 43.21,119.75 " id="polygon3506" fill="#2d6cdf"/>
+    </g>
+  </g>
+  <style type="text/css" id="style167">
+	.st0{fill:#2d6cdf;}
+	.st1{fill:#2d6cdf;}
+</style>
+</svg>
