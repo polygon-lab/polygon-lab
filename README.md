@@ -50,6 +50,7 @@
   <img height="30px" src="ecole.svg">
   <img height="30px" src="huawei.svg">
   <img height="30px" src="delft.svg">
+  <img height="30px" src="z-xtx.svg">
 </p>
 
 <p align="center">
