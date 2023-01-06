@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>z-xtx</title>
+	<defs>
+		<image  width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAAXNSR0IB2cksfwAAABJQTFRFXFzk////+vr+/f3/YWHlXl7kId/1WQAAAERJREFUeJxjYCAIGAUFBQWgJJivCOUL4eIbgvnCcL6iiwNDiIsQgg+mBSnko5tHbz7x7hVE57u4AsMDd3gRCF+0+MALAHjCD13T1nuRAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
